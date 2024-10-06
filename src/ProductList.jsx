@@ -12,6 +12,9 @@ function ProductList() {
     useEffect(() => {
         
     }, []);
+
+    
+
     const handleAddToCart = (product) => {
         dispatch(addItem(product));
         setAddedToCart((prevState) => ({

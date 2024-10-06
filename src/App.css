@@ -110,6 +110,10 @@
   backdrop-filter: blur(5px);
 }
 
+h1 {
+    text-align: center;
+    padding: 10px;
+}
 .product-list-container.visible {
   top: 0;
 }
