@@ -78,13 +78,13 @@ function ProductList(props) {
             plants: [
                 {
                     name: "Lavender",
-                    image: "https://images.unsplash.com/photo-1611909023032-2d6b3134ecba?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    image: "/lavender.jpg",
                     description: "Calming scent, used in aromatherapy.",
                     cost: "$20"
                 },
                 {
                     name: "Jasmine",
-                    image: "https://pixabay.com/photos/jasmine-flowers-white-flowers-4284856/",
+                    image: "/jasmine.jpg",
                     description: "Sweet fragrance, promotes relaxation.",
                     cost: "$18"
                 },
